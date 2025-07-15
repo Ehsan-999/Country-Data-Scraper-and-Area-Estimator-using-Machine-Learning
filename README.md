@@ -1,0 +1,2 @@
+<h1>About</h1>
+A simple Python project that scrapes country data (name, capital, population, area) from <a href="https://scrapethissite.com/pages/simple/">https://scrapethissite.com/pages/simple/</a>, stores it in a MySQL database, and uses a decision tree regression model to estimate the area of a country based on its population. Combines basic web scraping, data processing, and machine learning in one pipeline.
